@@ -1,0 +1,11 @@
+test_id,name,kind,rating,population,exceptions,exception_rate,exception_amount,planted,found,missed,extra_other_planted,extra_clean
+CT-01,Duplicate payments,Control,High,5036,12,0.0023828435266084196,101975.67,12,12,0,0,0
+CT-02,Segregation of duties,Control,High,5036,8,0.0015885623510722795,63416.91,8,8,0,0,0
+CT-03,Approval above delegated authority,Control,High,5036,6,0.0011914217633042098,852436.84,6,6,0,0,0
+CT-04,Amounts just below approval limit,Indicator,Medium,5036,10,0.0019857029388403494,2739690.27,10,10,0,0,0
+CT-05,Split payments,Control,High,5036,14,0.0027799841143764893,1353367.6,14,14,0,0,0
+CT-06,Off-hours posting,Indicator,Medium,5036,15,0.0029785544082605244,118576.47,15,15,0,0,0
+CT-07,Round-thousand amounts,Indicator,Low,5036,10,0.0019857029388403494,191000.0,10,10,0,0,0
+CT-08,Large payment to new vendor,Indicator,Medium,5036,4,0.0007942811755361397,496547.83,4,4,0,0,0
+CT-09,Vendor master integrity,Control,High,5036,6,0.0011914217633042098,37295.44,6,6,0,0,0
+CT-10,Statistical outliers by vendor,Indicator,Medium,5036,33,0.0065528196981731535,5563562.05,5,5,0,24,4

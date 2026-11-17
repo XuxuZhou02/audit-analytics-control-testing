@@ -1,0 +1,9 @@
+check,result
+Payment records,"5,036"
+Total amount (CAD),"53,939,358.33"
+Posting period,2025-01-01 to 2025-12-31
+Duplicate payment_id,0
+Missing values in required fields,0
+Non-positive amounts,0
+Vendors in master,157
+Employees in master,20

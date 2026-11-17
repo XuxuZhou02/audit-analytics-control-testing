@@ -1,0 +1,21 @@
+employee_id,employee_name,role,can_create,approval_limit
+E001,AP Clerk 1,AP Clerk,True,0
+E002,AP Clerk 2,AP Clerk,True,0
+E003,AP Clerk 3,AP Clerk,True,0
+E004,AP Clerk 4,AP Clerk,True,0
+E005,AP Clerk 5,AP Clerk,True,0
+E006,AP Clerk 6,AP Clerk,True,0
+E007,AP Clerk 7,AP Clerk,True,0
+E008,AP Clerk 8,AP Clerk,True,0
+E009,AP Supervisor 1,AP Supervisor,True,50000
+E010,AP Supervisor 2,AP Supervisor,True,50000
+E011,AP Supervisor 3,AP Supervisor,True,50000
+E012,AP Supervisor 4,AP Supervisor,True,50000
+E013,Finance Manager 1,Finance Manager,False,100000
+E014,Finance Manager 2,Finance Manager,False,100000
+E015,Finance Manager 3,Finance Manager,False,100000
+E016,Finance Manager 4,Finance Manager,False,250000
+E017,Finance Manager 5,Finance Manager,False,250000
+E018,Finance Manager 6,Finance Manager,False,250000
+E019,Controller 1,Controller,False,1000000
+E020,Controller 2,Controller,False,1000000
